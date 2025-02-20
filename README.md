@@ -1,5 +1,5 @@
 # 💫 Hello, I'm Tal!
-- 🖥️ Software Developer excited to learn more<br>- 📚 Graduated with a Business Information Technoly diploma at Red River College<br>- 💬 Working on learning new frameworks<br>- ⚡ Fun fact: I am a movie and book lover who somehow managed to find time to love coding in the midst of that
+I'm a Software Developer who recently graduated with Honors from Red River College's Business Information Technology Program. I've posted a lot of my projects from that time here! I'm constantly updating this with different tutorials and passion projects.
 
 
 ## 🌐 Socials
